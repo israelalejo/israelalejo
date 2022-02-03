@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-Hello! My name is Israel Alejo and this is my Github! I am a Data Analyst and all my work will be uploaded here! I am based in Los Angeles, CA and open to connecting! Feel free to message me on LinkedIn!
+My name is Israel Alejo and this is my Github! I am a Data Analyst and all my work will be uploaded here! I am based in Los Angeles, CA and open to connecting! Feel free to message me on LinkedIn!
 
 Skills: Python / R / SQL / Tableau / Excel
 
